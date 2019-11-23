@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Chinoscopo</string>
+    <string name="TituloMain">Enter your information to know your chinese horoscope!</string>
+    <string name="Nombre">First name</string>
+    <string name="Apellido">Last name</string>
+    <string name="Nocuenta">Account number</string>
+    <string name="Correo">E-mail</string>
+    <string name="FormatoCorreo">mail@web.com</string>
+
+    <string name="DameHoros">My Horoscope</string>
+    <string name="Fecha">Birthdate</string>
+    <string name="NombreFalta">"Enter your first name"</string>
+    <string name="ApellidoFalta">"Enter your last name"</string>
+    <string name="NumFalta">"Enter your account number"</string>
+    <string name="DigitosMal">"Enter 10 digits"</string>
+    <string name="EmailFalta">"Enter an e-mail"</string>
+    <string name="EmailInv">"Invalid e-mail"</string>
+    <string name="FechaInv">"Invalid day of birth"</string>
+
+    <string name="TuEdad">"Your age is: "</string>
+
+    <string name="Rata">"Rat"</string>
+    <string name="Buey">"Ox"</string>
+    <string name="Tigre">"Tiger"</string>
+    <string name="Conejo">"Rabbit"</string>
+    <string name="Dragon">"Dragon"</string>
+    <string name="Serpiente">"Snake"</string>
+    <string name="Caballo">"Horse"</string>
+    <string name="Cabra">"Goat"</string>
+    <string name="Mono">"Monkey"</string>
+    <string name="Gallo">"Rooster"</string>
+    <string name="Perro">"Dog"</string>
+    <string name="Jabali">"Wild pig"</string>
+
+</resources>

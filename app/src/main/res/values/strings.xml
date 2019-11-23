@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Chinoscopo</string>
+    <string name="TituloMain">¡Ingresa tu información para conocer tu horóscopo chino!</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Nocuenta">Número de cuenta</string>
+    <string name="Correo">Correo electrónico</string>
+    <string name="FormatoCorreo">correo@dominio.com</string>
+
+    <string name="DameHoros">Mi Horóscopo</string>
+    <string name="Fecha">Fecha de nacimiento</string>
+    <string name="NombreFalta">"Ingresa un nombre"</string>
+    <string name="ApellidoFalta">"Ingresa un apellido"</string>
+    <string name="NumFalta">"Ingresa un número de cuenta"</string>
+    <string name="DigitosMal">"Ingresa 10 dígitos"</string>
+    <string name="EmailFalta">"Ingresa un email"</string>
+    <string name="EmailInv">"Email inválido"</string>
+    <string name="FechaInv">"Fecha de nacimiento inválida"</string>
+
+    <string name="TuEdad">"Tu edad es: "</string>
+
+    <string name="Rata">"Rata"</string>
+    <string name="Buey">"Buey"</string>
+    <string name="Tigre">"Tigre"</string>
+    <string name="Conejo">"Conejo"</string>
+    <string name="Dragon">"Dragón"</string>
+    <string name="Serpiente">"Serpiente"</string>
+    <string name="Caballo">"Caballo"</string>
+    <string name="Cabra">"Cabra"</string>
+    <string name="Mono">"Mono"</string>
+    <string name="Gallo">"Gallo"</string>
+    <string name="Perro">"Perro"</string>
+    <string name="Jabali">"Jabalí"</string>
+
+</resources>
